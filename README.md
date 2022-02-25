@@ -2,6 +2,8 @@
 - 👀 I’m interested in ...software
 - 🌱 I’m currently learning 
 c++
+c#
+javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 emirhanetli2003@gmail.com
