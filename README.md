@@ -4,7 +4,6 @@
 c++
 c#
 javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 emirhan.etli@ogr.sakarya.edu.tr
 <!---
