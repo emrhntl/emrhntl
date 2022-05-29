@@ -4,6 +4,7 @@
 c++
 c#
 javascript
+react
 - 📫 How to reach me 
 emirhan.etli@ogr.sakarya.edu.tr
 <!---
