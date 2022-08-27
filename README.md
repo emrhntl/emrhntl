@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm emrhntl</h1>
+<h1 align="center">Hi 👋, I'm Emirhan ETLİ</h1>
 <h3 align="center">I am interested in the backend side of the software.</h3>
 
 - 🌱 I’m currently learning **ASP.NET and SQL**
