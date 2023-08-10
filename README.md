@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan ETLI</h1>
-<h3 align="center">I am interested in the backend side of the software.</h3>
+<h3 align="center">I am a developer</h3>
 
 - 🌱 I’m currently learning **Angular and Springboot**
 
