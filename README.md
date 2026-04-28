@@ -122,9 +122,3 @@ const emirhan = {
     <img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/emrhntl">emrhntl</a> — "Clean code always looks like it was written by someone who cares."</i>
-</p>
